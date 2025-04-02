@@ -1,0 +1,13 @@
+{
+    "beltFillLevel": 45,
+    "wasteCountPerHour": 120,
+    "wasteSorting": {
+      "organic": 50,
+      "plastic": 30,
+      "paper": 20,
+      "metal": 10,
+      "other": 5
+    },
+    "nextDockingTime": "2025-04-02T18:30:00Z"
+  }
+  
